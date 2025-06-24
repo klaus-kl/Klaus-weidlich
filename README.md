@@ -3,38 +3,79 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>PDG Klaus Weidlich – Online-Vertrieb</title>
+  <title>Klaus Enterprise – K.WARES</title>
   <style>
-    body { font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 20px; }
-    h1 { color: #2a5d9f; }
-    .button { display: inline-block; padding: 10px 20px; margin: 10px 0; background: #2a5d9f; color: white; text-decoration: none; border-radius: 5px; }
-    .proof { background: #eef; padding: 10px; margin: 15px 0; border-left: 4px solid #2a5d9f; }
-    .contact { font-weight: bold; }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f2f2f2;
+      color: #333;
+    }
+    header {
+      background-color: #1e88e5;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .content {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background: white;
+    }
+    h1 {
+      color: #1e88e5;
+    }
+    .beweis {
+      margin-top: 30px;
+    }
+    .beweis img, .beweis video {
+      max-width: 100%;
+      height: auto;
+      margin-bottom: 15px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #777;
+    }
   </style>
 </head>
 <body>
-  <h1>Willkommen – PDG Klaus Weidlich</h1>
-  <p>Ich bin im <strong>legalen Online-Vertrieb</strong> tätig und biete dir die Möglichkeit, gemeinsam Gewinne zu erzielen.</p>
-  
-  <h2>Was du tun musst:</h2>
-  <ul>
-    <li>Einfach mit mir zusammenarbeiten.</li>
-    <li>Produkte online anbieten und Verkäufe erzielen.</li>
-    <li>Am Monatsende oder wöchentlich Auszahlung erhalten.</li>
-  </ul>
-  
-  <h2>💼 Warum mit mir arbeiten?</h2>
-  <div class="proof">
-    <p><strong>Beispiel aus der Praxis:</strong> Letzten Monat hat ein Partner <em>über 800 €</em> zusätzlich verdient – Auszahlung wöchentlich!</p>
+
+<header>
+  <h1>Willkommen bei Klaus Enterprise: K.WARES</h1>
+</header>
+
+<div class="content">
+  <h2>Ich bin Klaus Weidlich</h2>
+  <p>Ich suche vertrauenswürdige Personen, mit denen ich zusammenarbeiten kann.  
+  Die Arbeit besteht darin, ein Bankkonto zu verwenden (neu oder bereits vorhanden), um Geld von meinen Online-Verkäufen zu empfangen.</p>
+
+  <p>Ich arbeite mit vielen Plattformen gleichzeitig, deshalb brauche ich Unterstützung – mein eigenes Bankkonto reicht nicht mehr aus.</p>
+
+  <p><strong>Wenn du zuverlässig bist, melde dich:</strong><br>
+  📧 <a href="mailto:klausweidlich8@gmail.com">klausweidlich8@gmail.com</a></p>
+
+  <div class="beweis">
+    <h3>Beweise meiner Aktivitäten</h3>
+    <p>Hier findest du einige Screenshots oder Videos, die meine Arbeit zeigen:</p>
+
+    <!-- Exemple de preuve image -->
+    <img src="beweis1.jpg" alt="Screenshot eines Verkaufs">
+
+    <!-- Exemple de vidéo -->
+    <video controls>
+      <source src="beweis-video.mp4" type="video/mp4">
+      Dein Browser unterstützt kein Video.
+    </video>
   </div>
-  
-  <div class="proof">
-    <p><strong>Kundenfeedback:</strong> „Dank Klaus Weidlich habe ich endlich ein stabiles Einkommen erzielt. Die Zusammenarbeit ist professionell und transparent.“</p>
-  </div>
-  
-  <p>Möchtest du deine monatlichen Einkünfte steigern und regelmäßig bezahlt werden? Dann lass uns loslegen!</p>
-  
-  <p class="contact">📞 Kontakt: +229 662 640 20</p>
-  <p><a class="button" href="tel:+22966264020">Jetzt anrufen & starten</a></p>
+</div>
+
+<footer>
+  © 2025 Klaus Enterprise – K.WARES
+</footer>
+
 </body>
 </html>
