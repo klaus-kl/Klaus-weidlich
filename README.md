@@ -1,1 +1,40 @@
 # Klaus-weidlich
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>PDG Klaus Weidlich – Online-Vertrieb</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 20px; }
+    h1 { color: #2a5d9f; }
+    .button { display: inline-block; padding: 10px 20px; margin: 10px 0; background: #2a5d9f; color: white; text-decoration: none; border-radius: 5px; }
+    .proof { background: #eef; padding: 10px; margin: 15px 0; border-left: 4px solid #2a5d9f; }
+    .contact { font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>Willkommen – PDG Klaus Weidlich</h1>
+  <p>Ich bin im <strong>legalen Online-Vertrieb</strong> tätig und biete dir die Möglichkeit, gemeinsam Gewinne zu erzielen.</p>
+  
+  <h2>Was du tun musst:</h2>
+  <ul>
+    <li>Einfach mit mir zusammenarbeiten.</li>
+    <li>Produkte online anbieten und Verkäufe erzielen.</li>
+    <li>Am Monatsende oder wöchentlich Auszahlung erhalten.</li>
+  </ul>
+  
+  <h2>💼 Warum mit mir arbeiten?</h2>
+  <div class="proof">
+    <p><strong>Beispiel aus der Praxis:</strong> Letzten Monat hat ein Partner <em>über 800 €</em> zusätzlich verdient – Auszahlung wöchentlich!</p>
+  </div>
+  
+  <div class="proof">
+    <p><strong>Kundenfeedback:</strong> „Dank Klaus Weidlich habe ich endlich ein stabiles Einkommen erzielt. Die Zusammenarbeit ist professionell und transparent.“</p>
+  </div>
+  
+  <p>Möchtest du deine monatlichen Einkünfte steigern und regelmäßig bezahlt werden? Dann lass uns loslegen!</p>
+  
+  <p class="contact">📞 Kontakt: +229 662 640 20</p>
+  <p><a class="button" href="tel:+22966264020">Jetzt anrufen & starten</a></p>
+</body>
+</html>
